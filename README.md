@@ -37,7 +37,7 @@ An AI-powered assistant that allows you to chat with any GitHub repository. Clon
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/documentation-agent.git
+   git clone https://github.com/hima12-awny/documentation-chat-agent
    cd documentation-agent
    ```
 
