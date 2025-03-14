@@ -1,0 +1,11 @@
+GitPython
+langchain_text_splitters
+llama_index
+nest_asyncio
+protobuf
+pydantic
+streamlit
+tqdm
+google-genai
+llama-index-embeddings-cohere
+llama-index-embeddings-langchain
