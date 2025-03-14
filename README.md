@@ -6,7 +6,7 @@ An AI-powered assistant that allows you to chat with any GitHub repository. Clon
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:hima12awny@gmail.com)
 
 
-![Documentation Agent Demo](ss\chat_pic.png)
+![Documentation Agent Demo](https://github.com/hima12-awny/documentation-chat-agent/blob/df9e49b7118e54411dbcb3cbbf8ec074fb65228d/ss/chat_pic.png)
 
 ## 🌟 Features
 
