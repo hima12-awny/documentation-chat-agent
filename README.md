@@ -95,7 +95,7 @@ An AI-powered assistant that allows you to chat with any GitHub repository. Clon
    - Stores vector indices locally for persistence
 
 3. **Query Process**:
-   - User questions are analyzed by the AI
+   - The AI analyzes user questions
    - If needed, a search query is generated to retrieve context
    - Relevant code snippets are fetched from the vector database
    - The AI formulates a response using the retrieved context
@@ -118,7 +118,6 @@ For questions or feedback, please open an issue on this repository.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-awny/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:hima12awny@gmail.com)
-
 
 ---
 
